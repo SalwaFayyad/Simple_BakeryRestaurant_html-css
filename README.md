@@ -1,7 +1,7 @@
 # Simple_BakeryRestaurant_html-css
 # Front_end | simple Bakery Restaurent website 
 ![image](https://github.com/SalwaFayyad/Simple_BakeryRestaurant_html-css/assets/104863637/36732846-3be1-413b-b6f5-bb0d69449b6f)
-
+# Notice the Deployment in the right side :)
 # Description
 Thank you for checking out this front-end coding challenge.
 This is a simple bakery website using html & css only.
